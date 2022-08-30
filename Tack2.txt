@@ -1,0 +1,2 @@
+1-Write the difference between the local variable and global variable
+global using all variables in the function but only local in the function
